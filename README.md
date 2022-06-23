@@ -12,11 +12,11 @@ Steps to run:
 2.Change directory to where the files are stored. 
 command: cd directory_name 
 
-3.In the first one, run datagramserver2.java file. 
-command to compile: javac datagramsercer2.java
+3.In the first one cmd,
+command to compile: javac datagramserver2.java
 command to run bytecode: java datagramserver2
 
-4.In the second cmd, run datagramclient2.java file. 
+4.In the second cmd, 
 command to compile: javac datagramcleint2.java
 command to run bytecode: java datagramclient2
 
