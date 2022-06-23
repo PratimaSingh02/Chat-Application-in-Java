@@ -13,12 +13,12 @@ Steps to run:
 command: cd directory_name 
 
 3.In the first one cmd,
-command to compile: javac datagramserver2.java
-command to run bytecode: java datagramserver2
+command to compile: javac datagramserver2.java;
+command to run bytecode: java datagramserver2;
 
 4.In the second cmd, 
-command to compile: javac datagramcleint2.java
-command to run bytecode: java datagramclient2
+command to compile: javac datagramcleint2.java;
+command to run bytecode: java datagramclient2;
 
 Output Screenshot:
 
